@@ -1,0 +1,2 @@
+SM_barcode	left_sipm	LYSO	right_sipm	operator	GAMBIT	date
+32110020004244					12468	32110000110578	12472	Wenzhe	156	4/10/2025
